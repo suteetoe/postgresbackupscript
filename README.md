@@ -18,9 +18,6 @@ $ su - postgres
 $ wget https://raw.githubusercontent.com/suteetoe/postgresbackupscript/master/backup.sh
 ```
 
-```
-$ nano backupdb.sh
-```
 4.Run backup file
 ```
 $ bash backup.sh
